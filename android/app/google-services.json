@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "190402527366",
+    "firebase_url": "https://literacy-555d8-default-rtdb.firebaseio.com",
+    "project_id": "literacy-555d8",
+    "storage_bucket": "literacy-555d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190402527366:android:8efaf477b1e81fdc42d107",
+        "android_client_info": {
+          "package_name": "com.example.literacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190402527366-23mte5qujefid2rs774nafdj3pjc7l6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo5jD9j26lsF18cJjCQPwb5pqxTtpTPC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190402527366-23mte5qujefid2rs774nafdj3pjc7l6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
